@@ -1,8 +1,8 @@
-# 42cursus
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo.svg" width="142"></p> 
-42 Seoul 에서 진행중인 본과정 프로젝트를 소개합니다. [인트라 프로필](https://profile.intra.42.fr/users/sunpark)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="142"> 
 
-## Common Circle
+42Seoul에서 진행중인 본과정 프로젝트를 소개합니다. [인트라 프로필](https://profile.intra.42.fr/users/sunpark)
+
+## ⭕️ Common Circle
 | Circle | Project | Description | Status | Score | 
 |:---:|:---|:---|:---:|:---:|
 | 0 | [Libft](https://github.com/cos18/libft) | My very first own C library | Success | 115/100 |
@@ -22,5 +22,5 @@
 |   | ft_services |  | Unavailable |  |
 | 6 | ft_transcendence |  | Unavailable |  |
 
-## Reference
+## 📒 Reference
 - [이 리포지토리](https://github.com/365kim/42_cursus)의 표를 가져와 작성했습니다.
