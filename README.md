@@ -8,10 +8,10 @@
 | 0 | [Libft](https://github.com/cos18/libft) | My very first own C library | Success | 115/100 |
 | 1 | [ft_printf](https://github.com/cos18/ft_printf) | Because putnbr and putstr aren’t enough | Success | 101/100 |
 |   | [get_next_line](https://github.com/cos18/get_next_line) | Reading a line on a fd is way too tedious | Success | 115/100 |
-|   | netwhat | Discover the network and understand how it works | Success | 100/100 |
+|   | [netwhat](netwhat.md) | Discover the network and understand how it works | Success | 100/100 |
 | 2 | [ft_server](https://github.com/cos18/ft_server) | The basics of system and network administration | Success | 100/100 |
-|   | cub3d | My ﬁrst RayCaster with miniLibX |  |  |
-|   | miniRT | My ﬁrst RayTracer with miniLibX |  |  |
+|   | cub3d | My ﬁrst RayCaster with miniLibX | UnAvailable |  |
+|   | [miniRT](https://github.com/cos18/miniRT) | My ﬁrst RayTracer with miniLibX | In progress |  |
 | 3 | libasm |  | Unavailable |  |
 |   | minishell |  | Unavailable |  |
 |   | ft_services |  | Unavailable |  |
