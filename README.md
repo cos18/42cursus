@@ -1,6 +1,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="142"> 
 
-42Seoul에서 진행중인 본과정 프로젝트를 소개합니다. [인트라 프로필](https://profile.intra.42.fr/users/sunpark)
+42Seoul에서 진행중인 본과정 프로젝트를 소개합니다.
+
+[![sunpark's 42 stats](https://badge42.herokuapp.com/api/stats/sunpark)](https://profile.intra.42.fr/users/sunpark)
 
 ## ⭕️ Common Circle
 | Circle | Project | Description | Status | Score | 
@@ -10,7 +12,7 @@
 |   | [get_next_line](https://github.com/cos18/get_next_line) | Reading a line on a fd is way too tedious | Success | 115/100 |
 |   | [netwhat](netwhat.md) | Discover the network and understand how it works | Success | 100/100 |
 | 2 | [ft_server](https://github.com/cos18/ft_server) | The basics of system and network administration | Success | 100/100 |
-|   | cub3d | My ﬁrst RayCaster with miniLibX | UnAvailable |  |
+|   | cub3d | My ﬁrst RayCaster with miniLibX | Unavailable |  |
 |   | [miniRT](https://github.com/cos18/miniRT) | My ﬁrst RayTracer with miniLibX | In progress |  |
 | 3 | libasm |  | Unavailable |  |
 |   | minishell |  | Unavailable |  |
