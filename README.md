@@ -14,7 +14,7 @@
 | 2 | [ft_server](https://github.com/cos18/ft_server) | The basics of system and network administration with docker | Success | 100/100 |
 |   | cub3d | My ﬁrst RayCaster with miniLibX | Unavailable |  |
 |   | [miniRT](https://github.com/cos18/miniRT) | My ﬁrst RayTracer with miniLibX | Success | 103/100 |
-| 3 | [libasm](https://github.com/cos18/libasm) | Assembly yourself! | In progress |  |
+| 3 | [libasm](https://github.com/cos18/libasm) | Assembly yourself! | Success | 100/100 |
 |   | minishell | As beautiful as a shell | Available |  |
 |   | [ft_services](https://github.com/cos18/ft_services) | System Administration and Networking with kubernetes | In progress |  |
 | 4 | CPP Module |  | Unavailable |  |
