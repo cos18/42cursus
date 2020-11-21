@@ -11,11 +11,11 @@
 | 1 | [ft_printf](https://github.com/cos18/ft_printf) | Because putnbr and putstr aren’t enough | Success | 101/100 |
 |   | [get_next_line](https://github.com/cos18/get_next_line) | Reading a line on a fd is way too tedious | Success | 115/100 |
 |   | [netwhat](netwhat.md) | Discover the network and understand how it works | Success | 100/100 |
-| 2 | [ft_server](https://github.com/cos18/ft_server) | The basics of system and network administration with docker | Success | 100/100 |
+| 2 | [ft_server](https://github.com/cos18/ft_server) | System Administration and Networking with docker | Success | 100/100 |
 |   | cub3d | My ﬁrst RayCaster with miniLibX | Unavailable |  |
 |   | [miniRT](https://github.com/cos18/miniRT) | My ﬁrst RayTracer with miniLibX | Success | 103/100 |
 | 3 | [libasm](https://github.com/cos18/libasm) | Assembly yourself! | Success | 100/100 |
-|   | minishell | As beautiful as a shell | Available |  |
+|   | [minishell](https://github.com/cos18/minishell) | As beautiful as a shell | In progress |  |
 |   | [ft_services](https://github.com/cos18/ft_services) | System Administration and Networking with kubernetes | In progress |  |
 | 4 | CPP Module |  | Unavailable |  |
 |   | Philosophers |  | Unavailable |  |
