@@ -6,7 +6,7 @@
 
 ## ⭕️ Common Circle
 | Circle | Project | Description | Status |
-|:---:|:---|:---|:---:|:---:|
+|:---:|:---|:---|:---:|
 | 0 | [Libft](https://github.com/cos18/Libft) | My very first own C library | ![sunpark's Libft Score](https://badge42.herokuapp.com/api/project/sunpark/Libft) |
 | 1 | [get_next_line](https://github.com/cos18/get_next_line) | Reading a line on a fd is way too tedious | ![sunpark's get_next_line Score](https://badge42.herokuapp.com/api/project/sunpark/get_next_line) |
 |   | [ft_printf](https://github.com/cos18/ft_printf) | Because putnbr and putstr aren’t enough | ![sunpark's ft_printf Score](https://badge42.herokuapp.com/api/project/sunpark/ft_printf) |
