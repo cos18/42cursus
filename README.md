@@ -17,8 +17,8 @@
 | 3 | [libasm](https://github.com/cos18/libasm) | Assembly yourself! | ![sunpark's libasm Score](https://badge42.herokuapp.com/api/project/sunpark/libasm) |
 |   | [minishell](https://github.com/cos18/minishell) | As beautiful as a shell | ![sunpark's minishell Score](https://badge42.herokuapp.com/api/project/sunpark/minishell) |
 |   | [ft_services](https://github.com/cos18/ft_services) | System Administration with Kubernetes | ![sunpark's ft_services Score](https://badge42.herokuapp.com/api/project/sunpark/ft_services) |
-| 4 | CPP Module |  | Unavailable |
-|   | Philosophers |  | Unavailable |
+| 4 | [CPP Module](https://github.com/cos18/cpp_module) | Time to dive into Object Oriented Programming! | Subscribed |
+|   | [Philosophers](https://github.com/cos18/philosophers) | Implement Dining philosophers problem | ![sunpark's philosophers Score](https://badge42.herokuapp.com/api/project/sunpark/Philosophers) |
 | 5 | ft_irc |  | Unavailable |
 |   | webserv |  | Unavailable |
 |   | ft_containers |  | Unavailable |
