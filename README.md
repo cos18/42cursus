@@ -17,12 +17,13 @@
 | 3 | [libasm](https://github.com/cos18/libasm) | Assembly yourself! | ![sunpark's libasm Score](https://badge42.herokuapp.com/api/project/sunpark/libasm) |
 |   | [minishell](https://github.com/cos18/minishell) | As beautiful as a shell | ![sunpark's minishell Score](https://badge42.herokuapp.com/api/project/sunpark/minishell) |
 |   | [ft_services](https://github.com/cos18/ft_services) | System Administration with Kubernetes | ![sunpark's ft_services Score](https://badge42.herokuapp.com/api/project/sunpark/ft_services) |
-| 4 | [CPP Module](https://github.com/cos18/cpp_module) | Time to dive into Object Oriented Programming! | Subscribed |
+| 4 | [CPP Module](https://github.com/cos18/cpp_module) | Time to dive into C++ OOP! | ![sunpark's CPP Module Score](https://badge42.herokuapp.com/api/project/sunpark/CPP%20Module%2008) |
 |   | [Philosophers](https://github.com/cos18/philosophers) | Implement Dining philosophers problem | ![sunpark's philosophers Score](https://badge42.herokuapp.com/api/project/sunpark/Philosophers) |
 | 5 | ft_irc |  | Unavailable |
-|   | webserv |  | Unavailable |
-|   | ft_containers |  | Unavailable |
+|   | webserv | Write own HTTP server | ![sunpark's webserv Score](https://badge42.herokuapp.com/api/project/sunpark/webserv) |
+|   | [ft_containers](https://github.com/cos18/ft_containers) | Implement C++98 STL | ![sunpark's ft_containers Score](https://badge42.herokuapp.com/api/project/sunpark/ft_containers) |
 | 6 | ft_transcendence |  | Unavailable |
+
 
 ## 📒 Reference
 - [이 리포지토리](https://github.com/365kim/42_cursus)의 표를 가져와 작성했습니다.
