@@ -20,7 +20,7 @@
 | 4 | [CPP Module](https://github.com/cos18/cpp_module) | Time to dive into C++ OOP! | ![sunpark's CPP Module Score](https://badge42.herokuapp.com/api/project/sunpark/CPP%20Module%2008) |
 |   | [Philosophers](https://github.com/cos18/philosophers) | Implement Dining philosophers problem | ![sunpark's philosophers Score](https://badge42.herokuapp.com/api/project/sunpark/Philosophers) |
 | 5 | ft_irc |  | Unavailable |
-|   | webserv | Write own HTTP server | ![sunpark's webserv Score](https://badge42.herokuapp.com/api/project/sunpark/webserv) |
+|   | [webserv](https://github.com/404-DriverNotFound/418-imateapot) | Write own HTTP server | ![sunpark's webserv Score](https://badge42.herokuapp.com/api/project/sunpark/webserv) |
 |   | [ft_containers](https://github.com/cos18/ft_containers) | Implement C++98 STL | ![sunpark's ft_containers Score](https://badge42.herokuapp.com/api/project/sunpark/ft_containers) |
 | 6 | ft_transcendence |  | Unavailable |
 
